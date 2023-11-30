@@ -11,3 +11,4 @@ You are tasked with continuing the story in this repository. Stories will be sco
 - [ ] No more than 1 image can be added to your pull request and it may not contain the colour yellow
 
 Only once all requirements above are fulfilled, your pull request has no merge conflicts, and you have two approvals from the approved approvers, then your part of the story can be added.
+hi
